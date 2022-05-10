@@ -11,11 +11,9 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Seja bem vindo ao meu perfil !!!
  
 <div> 
    <a href="https://www.linkedin.com/in/vithor-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/ragnarok4k/ragnarok4k/blob/output/github-contribution-grid-snake.svg)
 
 </div>
